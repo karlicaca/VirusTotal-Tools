@@ -11,7 +11,7 @@ import csv
 import time
 import requests
 
-apikey = str(input('Enter your API key. \n'))
+apikey = str(input('f2db8f66c178028151969aee7e00094803669c159ce5dfcd4fb3b186a03809d6. \n'))
 while True:
     apitype = str(input('Is this a public or private API key? \n'))
     if apitype == 'public':
