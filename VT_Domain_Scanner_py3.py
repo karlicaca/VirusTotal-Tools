@@ -10,7 +10,7 @@ import time
 import requests
 import csv
 
-apikey =f2db8f66c178028151969aee7e00094803669c159ce5dfcd4fb3b186a03809d6
+apikey ="f2db8f66c178028151969aee7e00094803669c159ce5dfcd4fb3b186a03809d6"
 requests.urllib3.disable_warnings()
 client = requests.session()
 client.verify = False
