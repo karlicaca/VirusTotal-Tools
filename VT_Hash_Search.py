@@ -15,7 +15,7 @@ requests.urllib3.disable_warnings()
 client =  requests.session()
 client.verify = False
 
-apikey = input('Enter your API key.')
+apikey = input('f2db8f66c178028151969aee7e00094803669c159ce5dfcd4fb3b186a03809d6.')
 
 
 def get_hash_report(apikey, filehash):
